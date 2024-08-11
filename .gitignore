@@ -1,0 +1,30 @@
+# Django project files
+*.log
+*.pot
+*.pyc
+__pycache__/
+
+# Django media and static files
+media/
+staticfiles/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtualenv files
+venv/
+env/
+
+# Database files
+db.sqlite3
+*.db
+
+# Other
+*.env
+*.secret
