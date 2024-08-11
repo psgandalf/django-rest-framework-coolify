@@ -11,7 +11,6 @@ staticfiles/
 # IDE and editor files
 .vscode/
 .idea/
-*.iml
 
 # OS files
 .DS_Store
